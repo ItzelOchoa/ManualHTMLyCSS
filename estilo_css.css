@@ -1,0 +1,110 @@
+html{
+    margin: 0;
+    padding : 0;
+    background: #5b98f4;
+    color : #0c0c0c;
+}
+body{
+    width: 80%;
+    margin: 10px auto;
+}
+header{
+    font-size: 400%;
+    text-align: center;
+}
+p{
+   font-size: 200%;
+}
+ol li a{
+    width: 10%;
+    height: 50px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+aside div a{
+    float: right;
+    padding: 100px 100px;
+    width: 10%;
+    height: 50px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+#texto1{
+    float: center;
+    padding: 0px 300px;
+    margin:  -200px 100px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#texto2{
+    float: center;
+    padding: 0px 300px;
+    margin:  -200px 100px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#texto3{
+    float: center;
+    padding: 0px 300px;
+    margin:  -200px 100px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#texto4{
+    float: center;
+    padding: 0px 300px;
+    margin:  -200px 100px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#texto5{
+    float: center;
+    padding: 0px 300px;
+    margin:  -200px 100px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#texto6{
+    float: center;
+    padding: 0px 300px;
+    margin:  -200px 100px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#texto7{
+    float: center;
+    padding: 0px 300px;
+    margin:  -200px 100px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#texto8{
+    float: center;
+    padding: 0px 300px;
+    margin:  -200px 100px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#texto9{
+    float: center;
+    padding: 0px 300px;
+    margin:  -200px 100px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#texto10{
+    float: center;
+    padding: 0px 300px;
+    margin:  -200px 100px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#imagen{
+    float: center;
+    position: absolute;
+    padding: 200px 200px;
+    margin:  300px 220px;
+    top: -350px;
+    width: 25%;
+}
